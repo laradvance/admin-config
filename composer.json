@@ -1,9 +1,9 @@
 {
-    "name": "fourn/admin-config",
+    "name": "laradvance/admin-config",
     "description": "Manage your database configuration as profiles",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "config"],
-    "homepage": "https://github.com/fourn/admin-config",
+    "homepage": "https://github.com/laradvance/admin-config",
     "license": "MIT",
     "authors": [
         {
